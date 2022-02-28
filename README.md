@@ -30,12 +30,11 @@ carry = AB + BCin + ACin                                         (2)
  ![image](https://user-images.githubusercontent.com/63257137/155872913-27e592a7-a415-4e14-9637-5077e16b51ae.png)
  
 # Acknowledgements:
-• Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
-• Cloud Based Analog IC Design Hackathon
-• Synopsys India
-• VLSI System Design (VSD) Corp. Pvt. Ltd India
-• Chinmay panda, IIT Hyderabad
-• Sameer Durgoji, NIT Karnataka
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+Cloud Based Analog IC Design Hackathon
+Synopsys India VLSI System Design (VSD) Corp. Pvt. Ltd India 
+Chinmay panda, IIT Hyderabad
+Sameer Durgoji, NIT Karnataka
 
 # REFERENCES
 [1]	K. D. Shinde and J. C. Nidagundi, "Design of fast and efficient 1-bit full adder and its performance analysis," 2014 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT), 2014, pp. 1275-1279, doi: 10.1109/ICCICCT.2014.6993157.
